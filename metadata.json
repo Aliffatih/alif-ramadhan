@@ -1,0 +1,7 @@
+{
+  "name": "alif Ramadhan Kareem - Berkah Ramadhan",
+  "description": "Aplikasi pendamping ibadah Ramadhan dengan fitur jadwal imsakiyah, doa harian, dzikir, dan sedekah.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
